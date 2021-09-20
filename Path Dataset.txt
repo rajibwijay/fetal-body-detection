@@ -1,0 +1,19 @@
+
+Path Dataset Head
+_________________
+
+'E:\FILE DARI DOCUMENT LAPTOP BARU\CODING MATLAB\faster rcnn\preHead\preHead1.jpg'
+
+
+Path Dataset Abdominal
+______________________
+
+'E:\FILE DARI DOCUMENT LAPTOP BARU\CODING MATLAB\faster rcnn\preAbdominal\preAbdominal1.jpg'
+
+
+Path Dataset Femur
+______________________
+
+'E:\FILE DARI DOCUMENT LAPTOP BARU\CODING MATLAB\faster rcnn\preFemur\preFemur1.jpg'
+'E:\FILE DARI DOCUMENT LAPTOP BARU\CODING MATLAB\faster rcnn\preFemur2\preFemur1.jpg'
+'E:\FILE DARI DOCUMENT LAPTOP BARU\CODING MATLAB\faster rcnn\preFemur3\preFemur1.jpg'
